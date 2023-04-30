@@ -1,7 +1,7 @@
 package org.example.Repository;
 
 import lombok.AllArgsConstructor;
-import org.example.util.Measurement;
+import org.example.Dto.Measurement;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.jdbc.core.namedparam.MapSqlParameterSource;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;

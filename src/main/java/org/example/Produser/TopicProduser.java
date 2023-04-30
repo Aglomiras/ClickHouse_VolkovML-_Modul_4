@@ -20,7 +20,7 @@ public class TopicProduser {
         log.info("Payload: {}", message);
     }
 
-    public void sendData(Measurement measurement){
+    public void sendMea(Measurement measurement){
         log.info("Payload: {}", measurement.toString());
         kafkaTemplate.send(topicName, measurement);
     }
