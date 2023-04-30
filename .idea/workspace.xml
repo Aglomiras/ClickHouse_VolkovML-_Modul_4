@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="796b7e80-010e-493c-8b64-82d472b83456" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Dto/Measurement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ClickHouse/ClickHouseProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ClickHouse/ClickHouseProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Consumer/TopicConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Consumer/TopicConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Controller/TopicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Controller/TopicController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DbKafkaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DbKafkaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Produser/TopicProduser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Produser/TopicProduser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Repository/ServiceFilePars_Reliz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Repository/ServiceFilePars_Reliz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/util/Measurement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/util/Measurement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Record" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2P9Tb4c6HONtdslvXOaumxBDbkJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Aglomiras/OneDrive/Изображения/Рабочий стол/DB_ClickHouse_VolkovML-_Modul_4-mas"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="796b7e80-010e-493c-8b64-82d472b83456" name="Changes" comment="" />
+      <created>1682868366305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682868366305</updated>
+    </task>
+    <servers />
+  </component>
+</project>
